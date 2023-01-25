@@ -8,9 +8,8 @@
 - 💬 Nutella é melhor que doce de leite
 - ⚡ Adoro química
 
-##
 <div style="display: block"><br>
-  <h4>🤩Tecnologias</h4>
+  <h3>🤩Tecnologias</h3>
   <img align="center" alt="Pedro-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Pedro-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Pedro-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
