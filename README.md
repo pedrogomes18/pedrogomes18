@@ -3,8 +3,8 @@
 ##
 
 - 🙋‍♂️ Pedro Gomes ou Gomes
-- 👨‍💻 Sujeito a programador Java e C#
-- 🌱 Estudando Python, Django, Flask...
+- 👨‍💻 Sujeito a programador Java, Python e JavaScript
+- 🌱 Estudando Python, Django, Flask e VueJS...
 - 💬 Nutella é melhor que doce de leite
 - ⚡ Adoro química
 
@@ -12,8 +12,10 @@
   <h3>🤩Tecnologias</h3>
   <img align="center" alt="Pedro-HTML" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Pedro-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Pedro-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Pedro-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Pedro-C#" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Pedro-SPRING" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Pedro-VUE" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Pedro-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="right" width="350" alt="Pedro-gif" src="https://cdn.discordapp.com/attachments/900816275566129163/1067942637828579328/programmer.gif">
 </div>
