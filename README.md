@@ -11,7 +11,6 @@
   <img align="center" alt="Pedro-Java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-SPRING" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Pedro-VUE" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Pedro-NUXTJS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img align="center" alt="Pedro-Python" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
