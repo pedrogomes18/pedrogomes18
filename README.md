@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/900816275566129163/1079903768386220152/giphy.gif" width="350px"/>
 </div><br>
 <div dir="auto" align="center">
-  <h2> Pedro G., &copy; Todos os direitos reservados</h2>
+  <h4> Pedro G., &copy; Todos os direitos reservados</h4>
 </div>
 <div dir="auto" align="center">
   <img align="center" alt="Pedro-HTML" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
