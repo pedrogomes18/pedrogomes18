@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/900816275566129163/1079903768386220152/giphy.gif" width="350px"/>
+  <img src="https://media.discordapp.net/attachments/900816275566129163/1222688227769581659/giphy.gif?ex=66172025&is=6604ab25&hm=8b181584ec91a52a66fef0c1a351da5d7b6889524a9ee779eca740eb4fbde104&=&width=600&height=600" width="350px"/>
 </div><br>
 <div dir="auto" align="center">
   <h3> Pedro G., &copy; Todos os direitos reservados</h3>
