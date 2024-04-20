@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/900816275566129163/1222688227769581659/giphy.gif?ex=66172025&is=6604ab25&hm=8b181584ec91a52a66fef0c1a351da5d7b6889524a9ee779eca740eb4fbde104&=&width=600&height=600" width="350px"/>
+  <img src="https://media.discordapp.net/attachments/900816275566129163/1222688227769581659/giphy.gif?ex=6632cfa5&is=66205aa5&hm=4d334e99a866ce3135843ecbce184886ef9a14022fe625cb209c9e978ce3d05d&=&width=540&height=540" width="350px"/>
 </div><br>
 <div dir="auto" align="center">
   <h3> Pedro G., &copy; Todos os direitos reservados</h3>
