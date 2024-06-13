@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/C_ctrvVdLswAAAAC/glasses-over.gif" width="350px"/>
+  <img src="https://i.pinimg.com/originals/cb/59/e1/cb59e1a7bc188a8c1aacd2ea05622777.gif" width="350px"/>
 </div><br>
 <div dir="auto" align="center">
   <h3> Pedro G., &copy; Todos os direitos reservados</h3>
